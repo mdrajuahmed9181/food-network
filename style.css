@@ -8,9 +8,10 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 150px;
+
 }
 .half-width{
     width: 50%;
@@ -34,11 +35,44 @@ section{
     background-size: 100%;
     
 }
-p{
+.width{
     width: 400px;
   font-size: 20px;
 }
 a{
     box-shadow: 10px 10px 10px gray;
     
+}
+.alin-center{
+    text-align: center;
+}
+.align-width{
+padding: 2% 30%;
+} 
+.one-third-width{
+    width: 27%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    border-radius: 20px;
+   
+}
+.one-third-width img{
+    width: 100%;
+    margin: %;
+}
+.last-width{
+    width: 92%%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.bg-color{
+    background-color: black;
+    color: cadetblue;
+    height: 200px;
+    padding-top: 30px;
+}
+.color-blue{
+color: rgb(51, 51, 243);
 }
